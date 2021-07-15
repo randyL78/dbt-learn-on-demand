@@ -1,1 +1,0 @@
-select * from test_randy.stripe.payment limit 100
